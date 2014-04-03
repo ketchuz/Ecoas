@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CATE",
+				"category"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"updat",
+				"updateTotal"
+			],
+			[
+				"logou",
+				"logout_url"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fa",
+				"facebook_check_callback"
+			],
+			[
+				"fac",
+				"facebook_check"
+			],
+			[
+				"likesre",
+				"likes_result"
+			],
+			[
+				"like",
+				"likes_url"
+			],
+			[
+				"getf",
+				"getFBCheckLikeURL"
+			],
+			[
+				"getfb",
+				"getFBTokenURL"
+			],
+			[
+				"get",
+				"get_property"
+			],
+			[
+				"redire",
+				"RedirectServiceURL"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"do",
+				"DownAndShow"
+			],
+			[
+				"up",
+				"UpAndFade"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"activ",
+				"activeButton"
+			],
+			[
+				"menu",
+				"menuButton"
+			],
+			[
+				"led",
+				"LedFlash"
+			],
+			[
+				"SECON",
+				"SecondDigitMin"
+			],
+			[
+				"incre",
+				"IncreaseSecondDigitHour"
+			],
+			[
+				"inc",
+				"incf"
+			],
+			[
+				"iNC",
+				"IncreaseSecond"
+			],
+			[
+				"asimin",
+				"AsignMinX0"
+			],
+			[
+				"hou",
+				"Hou0X"
+			],
+			[
+				"asihou",
+				"AsignHou0X"
+			],
+			[
+				"port",
+				"PORTB"
+			],
+			[
+				"Ho",
+				"Hor_X0"
+			],
+			[
+				"min",
+				"Min_0X"
+			],
+			[
+				"hor",
+				"Hor_0X"
+			],
+			[
+				"Cont",
+				"ContinueVerify"
+			],
+			[
+				"PORT",
+				"PORTA"
+			],
+			[
+				"mov",
+				"movwf"
+			],
+			[
+				"MIN",
+				"Min_0X"
+			],
+			[
+				"contado",
+				"ContadorUnidades"
+			],
+			[
+				"Contado",
+				"ContadorUn"
+			],
+			[
+				"wai",
+				"wait2"
+			],
+			[
+				"tota",
+				"total"
+			],
+			[
+				"_wa",
+				"_wait"
+			],
+			[
+				"tim",
+				"timeStay"
+			],
+			[
+				"_sta",
+				"_start"
+			],
+			[
+				"sta",
+				"stay"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"create",
+				"createFirstObjectCalcs"
+			],
+			[
+				"total",
+				"totalTime"
+			],
+			[
+				"num",
+				"numOfImages"
+			],
+			[
+				"crear",
+				"createVertical"
+			],
+			[
+				"creat",
+				"createHorizontal"
+			],
+			[
+				"type",
+				"_type"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"res",
+				"resizeSlider"
+			],
+			[
+				"lis",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/home_controller.rb",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/dashboard_controller.rb",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/dashboard/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//UBUNTU/Desktop/ecoas/config/routes.rb",
+		"//UBUNTU/Desktop/ecoas/config/database.yml",
+		"/D/Coding/Visual/Tarea5/Tarea5/Tarea5.cpp",
+		"/D/Coding/Visual/Tarea5/Tarea5/Tarea5.vcxproj.filters",
+		"/D/Coding/Visual/Tarea5/Tarea5.sln",
+		"//UBUNTU/Desktop/ecoas/bin/bundle",
+		"/F/Rhodes/Germlist/app/Category/new.erb",
+		"/F/Rhodes/Germlist/app/Item/show.erb",
+		"/F/Rhodes/Germlist/app/Category/index.erb",
+		"/F/Rhodes/Germlist/app/Item/displayItem.erb",
+		"/F/Rhodes/Germlist/public/css/android.css",
+		"/F/Rhodes/Germlist/app/Category/category_controller.rb",
+		"/F/Rhodes/Germlist/app/Item/item_controller.rb",
+		"/F/Rhodes/Germlist/rhoconfig.txt",
+		"/F/Rhodes/Germlist/app/application.rb",
+		"/D/Coding/tomy.c",
+		"/D/Coding/tarea5.c",
+		"/F/Rhodes/Germlist/app/Item/new.erb",
+		"/F/Rhodes/Germlist/app/Item/edit.erb",
+		"/F/Rhodes/Germlist/app/index.erb",
+		"/F/Rhodes/Germlist/app/Category/show.erb",
+		"/F/Rhodes/Germlist/app/Category/edit.erb",
+		"/F/Rhodes/Germlist/app/layout.erb",
+		"/F/Rhodes/Germlist/app/loading.html",
+		"/F/Rhodes/Jet/public/css/android.css",
+		"/F/Rhodes/Germlist/app/Category/category.rb",
+		"/F/Rhodes/Germlist/build.yml",
+		"/F/Rhodes/Jet/app/FacebookConnect/facebook_check_callback.erb",
+		"/F/Rhodes/Jet/app/FacebookConnect/facebook_connect_controller.rb",
+		"/F/Rhodes/Jet/app/FacebookConnect/index.erb",
+		"/F/Rhodes/Jet/app/layout.erb",
+		"/F/Rhodes/Jet/app/index.erb",
+		"/F/Rhodes/Jet/app/FacebookConnect/connecting.erb",
+		"/F/Rhodes/Jet/app/Profile/index.erb",
+		"/F/Rhodes/Jet/app/Profile/facebook_check_callback.erb",
+		"/F/Rhodes/Jet/app/Profile/profile_controller.rb",
+		"/F/Rhodes/Jet/app/Settings/controller.rb",
+		"/F/Rhodes/Jet/app/Profile/connecting.erb",
+		"/F/Rhodes/Jet/app/Promos/promos_controller.rb",
+		"/F/Rhodes/Jet/rhoconfig.txt",
+		"/F/Rhodes/Jet/app/application.rb",
+		"/F/Rhodes/Jet/app/Promos/index.erb",
+		"/F/Rhodes/rhomobile-fb-login/rhoconfig.txt",
+		"/F/Rhodes/rhomobile-fb-login/app/application.rb",
+		"/F/Rhodes/rhomobile-fb-login/app/User/login.erb",
+		"/F/Rhodes/fbook/build.yml",
+		"/F/Rhodes/fbook/rhoconfig.txt",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/js/sizePosition.js",
+		"/F/Rhodes/Jet/build.yml",
+		"/F/Rhodes/FirstApp/app/layout.erb",
+		"/F/Rhodes/FirstApp/public/css/android.css",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/gallery.html",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/reserve.html",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/js/menuResponse.js",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/style.css",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/main.cpp",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/index.html",
+		"/C/MotorolaRhoMobileSuite4.0.0/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/rhobuild.yml",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/map.html",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/home.html",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Jet/LocalFiles/promo.html",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Demo/LocalFiles/js/MenuImages.js",
+		"/D/MoSync/profiles/platforms/Android/AndroidManifest.template",
+		"/D/MoSync/workspace/Jet/Output/Release/Android/Android Experimental/package/AndroidManifest.xml",
+		"/D/MoSync/workspace/Jet/Output/Release/Android/Android/package/AndroidManifest.xml",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Demo/LocalFiles/index.html",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Demo/LocalFiles/js/sizePosAdjust.js",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Demo/App.icon",
+		"/C/Users/Chuy/MoSync_Reload_Projects/Demo/LocalFiles/style.css",
+		"/D/Dropbox/ManiereFinalProyect/AdminManiere/AdminManiere/Content/Catalog.css",
+		"/C/Users/Chuy/Downloads/problemas tarea Tomas Esparza A01260486/problema 1 Tomas Esparza A01260486.c",
+		"/C/Users/Chuy/AppData/Local/Google/Chrome/User Data/Local State",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/Rebote.inc",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/DigitDisplay.inc",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/Interrupciones.inc",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/main.asm",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/TimeChanger.inc",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/Multiplexor.inc",
+		"/D/Dropbox/7 Semestre/Micros/Digital Clock/Retardo.inc",
+		"/D/Dropbox/7 Semestre/Micros/S20/S20E04/dado.asm",
+		"/C/Users/Chuy/Downloads/S14 Int_RBI 01.asm",
+		"/D/Dropbox/7 Semestre/Micros/Final Project/DigitalClock.asm",
+		"/D/Dropbox/Coding/Plugins/js/slideShow.js",
+		"/D/Dropbox/Coding/Plugins/css/mainStyles.css",
+		"/D/Dropbox/Coding/Plugins/js/calls.js",
+		"/D/Dropbox/Coding/Plugins/css/slider.css",
+		"/D/Dropbox/Coding/Plugins/index.html",
+		"/C/Users/Chuy/Downloads/flexometro.txt",
+		"/C/Users/Chuy/Documents/Servicio_social/admin_equipos/.git/logs/refs/heads/master",
+		"/C/Users/Chuy/Documents/Servicio_social/admin_equipos/computadoras/admin.pyc",
+		"/C/Users/Chuy/Videos/Books/Star Wars Darth Bane Trilogy/Star Wars - 015 - Darth Bane - Path of Destruction - Drew Karpyshyn.epub",
+		"/D/Dropbox/7 Semestre/Micros/S20/S20E02/S14 Int_RBI 01.asm"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"F:\\Rhodes\\Jet",
+			"F:\\kataklimt",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enable_",
+			"updateTotal",
+			"mobile",
+			"li",
+			"Home",
+			">\n",
+			"disp",
+			"window",
+			"dim",
+			"sf-menu",
+			"Segundero",
+			"AsignaValores",
+			"PORTA",
+			"contadormulti",
+			"PORTA",
+			"porta",
+			"Contador",
+			"ContadorUn",
+			"ContadorMin",
+			"date",
+			"virtual"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/home_controller.rb",
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/dashboard_controller.rb",
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "app/views/home/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/dashboard/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"bin",
+				"bin/bundle"
+			],
+			[
+				"y",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
