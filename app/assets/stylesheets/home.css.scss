@@ -1,3 +1,126 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+nav{
+	position: fixed;
+	background-color: #282828;
+	top:0;
+	left: 0;
+	width: 100%;
+	z-index: 10;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+	ul{
+		margin-bottom: 0;
+		margin-left: auto;
+		margin-right: auto;
+		list-style: none;
+		margin-top: 0;
+	}
+
+	li{
+		display: inline-block;
+	}
+
+	a{
+		padding: 0.2em 1em 0.2em 1em;
+		margin: 0.6em 0.2em 0.6em 0.2em;
+		font-weight: 600;
+		border-radius: 8px;
+		position: relative;
+		display: block;
+		color: #fff;
+		text-decoration: none;
+		outline: 0;
+		font-family: 'Open Sans', sans-serif;
+		line-height: 1.85em;
+		font-size: 14pt;
+
+		-webkit-transition: background-color .2s ease-in-out;
+		  -moz-transition: background-color .2s ease-in-out;
+		  -o-transition: background-color .2s ease-in-out;
+		  transition: background-color .2s ease-in-out;
+
+	}
+
+	a:hover{
+		background-color: #383838;
+	}
+}
+
+
+.container{
+	margin-top: 14em;
+	font-family: 'Open Sans', sans-serif;
+
+	article{
+		width: 1080px;
+		margin-right: auto;
+		margin-left: auto;
+
+	}
+
+	h1{
+		font-size: 3.25em;
+		letter-spacing: -0.025em;
+		font-weight: 100;
+		margin: 0.75em 0 0.75em 0.85em;
+		margin-top: 0.35em;
+		color: #3e3e3e;
+
+	}
+
+	p{
+		font-size: 1.5em;
+		line-height: 1.75em;
+		color: #3e3e3e;
+		margin-left: 2em;
+		-webkit-margin-before: 1em;
+		-webkit-margin-after: 1em;
+		-webkit-margin-start: 0px;
+		-webkit-margin-end: 0px;
+		margin: 0.75em 0 0.75em 1.85em;
+
+	}
+
+	div{
+		width: auto;
+		position: relative;
+		float: left;
+	}
+
+	a{
+		font-size: 1.25em;
+		position: relative;
+		display: inline-block;
+		color: #fff;
+		text-decoration: none;
+		font-weight: 700;
+		border: 0;
+		margin-left: 2em;
+		margin-top: 1em;
+		outline: 0;
+		cursor: pointer;
+		border-radius: 8px;
+		text-shadow: -1px -1px 0.5px rgba(0,0,0,0.5);
+		overflow: hidden;
+		background: #61b8db;
+		padding: 0.75em 0.85em 0.75em 0.85em;
+		background-image: -moz-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
+		background-image: -webkit-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
+		background-image: -o-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
+		background-image: -ms-linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
+		background-image: linear-gradient(top, rgba(97,184,219,0), rgba(48,141,196,1));
+		box-shadow: inset 0px 0px 0px 1px #135c86, inset 0px 2px 1px 0px rgba(255,255,255,0.75);
+		-moz-transition: background-color .2s ease-in-out;
+		-webkit-transition: background-color .2s ease-in-out;
+		-o-transition: background-color .2s ease-in-out;
+		-ms-transition: background-color .2s ease-in-out;
+		transition: background-color .2s ease-in-out;
+	}
+}
+
+

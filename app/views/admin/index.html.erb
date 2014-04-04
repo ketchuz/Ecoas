@@ -1,0 +1,12 @@
+	
+	<%= link_to 'Logout', logout_path %>
+
+	<%= link_to "Register", controller: 'users', action: 'new' %>
+
+	<ul>
+		<% @users.each do |user| %>
+			<li><%= user.email %></li>
+		<% end %>
+	</ul>
+
+
